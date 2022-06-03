@@ -1,0 +1,24 @@
+.box{
+	height: 450px;
+	width: 350px;
+	
+}
+.boxes{
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+	padding: 20px;
+	padding-bottom: 30px;
+	
+	font-family: garamond
+}
+
+h2{
+	text-align: center;
+	color: white;
+	
+}
+p{
+	padding-left: 8px;
+	color: white;
+}

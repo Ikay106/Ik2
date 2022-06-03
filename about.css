@@ -1,0 +1,50 @@
+.body2{
+	width: 100%;
+	height: 2000px;
+}
+.img_about{
+	height: 400px;
+	width: 600px;
+	border-radius: 30%;
+	padding-top: 30px;
+}
+
+.about_1{
+	height: 400px;
+	width: 600px;
+	margin: auto;
+	
+}
+
+.about_2{
+text-align: center;
+height: 650px;
+margin: auto;
+width: 800px;
+padding-top: 20px;
+font-family: helvatica;
+font-size: 25px;
+color: RGB(2,20,40) ;
+}
+
+
+.box{
+	height: 450px;
+	width: 500px;
+	margin-top: 10px;
+}
+.box_cont{
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	padding-bottom: 0px;
+	color: black;
+	font-family: garamond
+}
+
+h2{
+	
+}
+p{
+	
+}
